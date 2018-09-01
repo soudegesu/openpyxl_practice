@@ -7,3 +7,9 @@
 ```bash
 pip install -r requirements.txt -c constraints.txt
 ```
+
+## Quick Start
+
+```bash
+jupyter notebook
+```
