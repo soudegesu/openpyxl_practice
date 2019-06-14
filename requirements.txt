@@ -3,4 +3,5 @@ jupyter
 msoffcrypto-tool
 pandas
 xlrd
+pypiwin32
 
