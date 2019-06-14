@@ -1,2 +1,4 @@
 openpyxl
 jupyter
+msoffcrypto-tool
+
