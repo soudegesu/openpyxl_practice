@@ -2,3 +2,5 @@ openpyxl
 jupyter
 msoffcrypto-tool
 pandas
+xlrd
+
